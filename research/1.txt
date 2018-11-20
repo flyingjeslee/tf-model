@@ -1,0 +1,322 @@
+object_detection/README.md:4:multiple objects in a single image remains a core challenge in computer vision.
+object_detection/model_tpu_main.py:83:def main(unused_argv):
+object_detection/model_tpu_main.py:141:if __name__ == '__main__':
+object_detection/model_main.py:59:def main(unused_argv):
+object_detection/model_main.py:108:if __name__ == '__main__':
+object_detection/export_inference_graph.py:131:def main(_):
+object_detection/export_inference_graph.py:149:if __name__ == '__main__':
+object_detection/models/ssd_mobilenet_v1_ppn_feature_extractor_test.py:184:if __name__ == '__main__':
+object_detection/models/ssd_mobilenet_v1_ppn_feature_extractor_test.py:185:  tf.test.main()
+object_detection/models/ssd_resnet_v1_ppn_feature_extractor_test.py:87:if __name__ == '__main__':
+object_detection/models/ssd_resnet_v1_ppn_feature_extractor_test.py:88:  tf.test.main()
+object_detection/models/faster_rcnn_pnas_feature_extractor.py:202:    # pnasnet.py does not maintain the batch size in the first dimension.
+object_detection/models/ssd_mobilenet_v2_feature_extractor_test.py:206:if __name__ == '__main__':
+object_detection/models/ssd_mobilenet_v2_feature_extractor_test.py:207:  tf.test.main()
+object_detection/models/faster_rcnn_pnas_feature_extractor_test.py:121:if __name__ == '__main__':
+object_detection/models/faster_rcnn_pnas_feature_extractor_test.py:122:  tf.test.main()
+object_detection/models/keras_applications/mobilenet_v2_test.py:466:if __name__ == '__main__':
+object_detection/models/keras_applications/mobilenet_v2_test.py:467:  tf.test.main()
+object_detection/models/faster_rcnn_resnet_v1_feature_extractor_test.py:136:if __name__ == '__main__':
+object_detection/models/faster_rcnn_resnet_v1_feature_extractor_test.py:137:  tf.test.main()
+object_detection/models/faster_rcnn_nas_feature_extractor.py:200:    # nasnet.py does not maintain the batch size in the first dimension.
+object_detection/models/ssd_mobilenet_v2_fpn_feature_extractor_test.py:205:if __name__ == '__main__':
+object_detection/models/ssd_mobilenet_v2_fpn_feature_extractor_test.py:206:  tf.test.main()
+object_detection/models/feature_map_generators.py:487:  multi_resolution_feature_maps. The main difference are that it is simpler and
+object_detection/models/faster_rcnn_nas_feature_extractor_test.py:108:if __name__ == '__main__':
+object_detection/models/faster_rcnn_nas_feature_extractor_test.py:109:  tf.test.main()
+object_detection/models/feature_map_generators_test.py:458:if __name__ == '__main__':
+object_detection/models/feature_map_generators_test.py:459:  tf.test.main()
+object_detection/models/faster_rcnn_inception_resnet_v2_feature_extractor_test.py:108:if __name__ == '__main__':
+object_detection/models/faster_rcnn_inception_resnet_v2_feature_extractor_test.py:109:  tf.test.main()
+object_detection/models/embedded_ssd_mobilenet_v1_feature_extractor_test.py:128:if __name__ == '__main__':
+object_detection/models/embedded_ssd_mobilenet_v1_feature_extractor_test.py:129:  tf.test.main()
+object_detection/models/faster_rcnn_inception_v2_feature_extractor_test.py:125:if __name__ == '__main__':
+object_detection/models/faster_rcnn_inception_v2_feature_extractor_test.py:126:  tf.test.main()
+object_detection/models/ssd_mobilenet_v1_fpn_feature_extractor_test.py:171:if __name__ == '__main__':
+object_detection/models/ssd_mobilenet_v1_fpn_feature_extractor_test.py:172:  tf.test.main()
+匹配到二进制文件 object_detection/models/feature_map_generators.pyc
+object_detection/models/ssd_resnet_v1_fpn_feature_extractor_test.py:83:if __name__ == '__main__':
+object_detection/models/ssd_resnet_v1_fpn_feature_extractor_test.py:84:  tf.test.main()
+object_detection/models/ssd_inception_v2_feature_extractor_test.py:133:if __name__ == '__main__':
+object_detection/models/ssd_inception_v2_feature_extractor_test.py:134:  tf.test.main()
+object_detection/models/faster_rcnn_mobilenet_v1_feature_extractor_test.py:125:if __name__ == '__main__':
+object_detection/models/faster_rcnn_mobilenet_v1_feature_extractor_test.py:126:  tf.test.main()
+object_detection/models/ssd_inception_v3_feature_extractor_test.py:133:if __name__ == '__main__':
+object_detection/models/ssd_inception_v3_feature_extractor_test.py:134:  tf.test.main()
+object_detection/models/ssd_mobilenet_v1_feature_extractor_test.py:165:if __name__ == '__main__':
+object_detection/models/ssd_mobilenet_v1_feature_extractor_test.py:166:  tf.test.main()
+object_detection/models/ssd_pnasnet_feature_extractor_test.py:86:if __name__ == '__main__':
+object_detection/models/ssd_pnasnet_feature_extractor_test.py:87:  tf.test.main()
+object_detection/utils/context_manager_test.py:32:if __name__ == '__main__':
+object_detection/utils/context_manager_test.py:33:  tf.test.main()
+object_detection/utils/np_box_mask_list_test.py:181:if __name__ == '__main__':
+object_detection/utils/np_box_mask_list_test.py:182:  tf.test.main()
+object_detection/utils/label_map_util_test.py:333:if __name__ == '__main__':
+object_detection/utils/label_map_util_test.py:334:  tf.test.main()
+object_detection/utils/per_image_evaluation_test.py:560:if __name__ == "__main__":
+object_detection/utils/per_image_evaluation_test.py:561:  tf.test.main()
+object_detection/utils/category_util_test.py:53:if __name__ == '__main__':
+object_detection/utils/category_util_test.py:54:  tf.test.main()
+object_detection/utils/np_box_mask_list_ops_test.py:190:if __name__ == '__main__':
+object_detection/utils/np_box_mask_list_ops_test.py:191:  tf.test.main()
+object_detection/utils/learning_schedules_test.py:155:if __name__ == '__main__':
+object_detection/utils/learning_schedules_test.py:156:  tf.test.main()
+object_detection/utils/vrd_evaluation_test.py:256:if __name__ == '__main__':
+object_detection/utils/vrd_evaluation_test.py:257:  tf.test.main()
+object_detection/utils/static_shape_test.py:49:if __name__ == '__main__':
+object_detection/utils/static_shape_test.py:50:  tf.test.main()
+object_detection/utils/variables_helper.py:32:  expressions in filter_regex_list and returns the remaining variables.
+object_detection/utils/np_box_ops_test.py:67:if __name__ == '__main__':
+object_detection/utils/np_box_ops_test.py:68:  tf.test.main()
+object_detection/utils/test_utils_test.py:88:if __name__ == '__main__':
+object_detection/utils/test_utils_test.py:89:  tf.test.main()
+object_detection/utils/metrics_test.py:142:if __name__ == '__main__':
+object_detection/utils/metrics_test.py:143:  tf.test.main()
+object_detection/utils/config_util_test.py:865:if __name__ == "__main__":
+object_detection/utils/config_util_test.py:866:  tf.test.main()
+object_detection/utils/per_image_vrd_evaluation_test.py:93:if __name__ == '__main__':
+object_detection/utils/per_image_vrd_evaluation_test.py:94:  tf.test.main()
+object_detection/utils/dataset_util_test.py:36:if __name__ == '__main__':
+object_detection/utils/dataset_util_test.py:37:  tf.test.main()
+object_detection/utils/np_box_mask_list_ops.py:215:  # is_index_valid is True only for all remaining valid boxes,
+object_detection/utils/ops_test.py:1126:  def testMaskOffCenterRemainsOffCenterInImage(self):
+object_detection/utils/ops_test.py:1654:if __name__ == '__main__':
+object_detection/utils/ops_test.py:1655:  tf.test.main()
+object_detection/utils/np_box_list_test.py:134:if __name__ == '__main__':
+object_detection/utils/np_box_list_test.py:135:  tf.test.main()
+object_detection/utils/variables_helper_test.py:220:if __name__ == '__main__':
+object_detection/utils/variables_helper_test.py:221:  tf.test.main()
+object_detection/utils/np_mask_ops_test.py:87:if __name__ == '__main__':
+object_detection/utils/np_mask_ops_test.py:88:  tf.test.main()
+object_detection/utils/visualization_utils_test.py:304:if __name__ == '__main__':
+object_detection/utils/visualization_utils_test.py:305:  tf.test.main()
+object_detection/utils/config_util.py:646:  all other defined learning rates in the pipeline config are scaled to maintain
+object_detection/utils/shape_utils_test.py:336:if __name__ == '__main__':
+object_detection/utils/shape_utils_test.py:337:  tf.test.main()
+object_detection/utils/object_detection_evaluation_test.py:686:if __name__ == '__main__':
+object_detection/utils/object_detection_evaluation_test.py:687:  tf.test.main()
+object_detection/utils/np_box_list_ops_test.py:413:if __name__ == '__main__':
+object_detection/utils/np_box_list_ops_test.py:414:  tf.test.main()
+object_detection/utils/np_box_list_ops.py:212:  # is_index_valid is True only for all remaining valid boxes,
+object_detection/utils/json_utils_test.py:96:if __name__ == '__main__':
+object_detection/utils/json_utils_test.py:97:  tf.test.main()
+object_detection/exporter_test.py:987:if __name__ == '__main__':
+object_detection/exporter_test.py:988:  tf.test.main()
+object_detection/model_lib_test.py:429:if __name__ == '__main__':
+object_detection/model_lib_test.py:430:  tf.test.main()
+object_detection/g3doc/running_locally.md:41:python object_detection/model_main.py \
+object_detection/g3doc/running_on_cloud.md:79:    --module-name object_detection.model_main \
+object_detection/g3doc/running_on_cloud.md:107:--module-name object_detection.model_tpu_main \
+object_detection/g3doc/running_on_cloud.md:118:file and we point to the *object_detection.model_tpu_main* binary instead of
+object_detection/g3doc/running_on_cloud.md:119:*object_detection.model_main*. We must also now set `scale-tier` to be
+object_detection/g3doc/running_on_cloud.md:139:    --module-name object_detection.model_main \
+object_detection/g3doc/installation.md:30:The remaining libraries can be installed on Ubuntu 16.04 using via apt-get:
+object_detection/g3doc/configuring_jobs.md:154:The remainings parameters in `train_config` are hyperparameters for gradient
+object_detection/g3doc/configuring_jobs.md:161:The main components to set in `eval_config` are `num_examples` and
+object_detection/g3doc/using_your_own_dataset.md:141:def main(_):
+object_detection/g3doc/using_your_own_dataset.md:153:if __name__ == '__main__':
+object_detection/g3doc/running_pets.md:222:    --module-name object_detection.model_main \
+object_detection/g3doc/running_on_mobile_tensorflowlite.md:116://tensorflow/contrib/lite/examples/android/app/src/main/assets
+object_detection/g3doc/running_on_mobile_tensorflowlite.md:127:“//tensorflow/contrib/lite/examples/android/app/src/main/assets:detect.tflite”.
+object_detection/g3doc/running_on_mobile_tensorflowlite.md:133:tensorflow/contrib/lite/examples/android/app/src/main/java/org/tensorflow/demo/DetectorActivity.java
+object_detection/dataset_tools/oid_tfrecord_creation_test.py:199:if __name__ == '__main__':
+object_detection/dataset_tools/oid_tfrecord_creation_test.py:200:  tf.test.main()
+object_detection/dataset_tools/tf_record_creation_util_test.py:41:if __name__ == '__main__':
+object_detection/dataset_tools/tf_record_creation_util_test.py:42:  tf.test.main()
+object_detection/dataset_tools/create_kitti_tf_record_test.py:129:if __name__ == '__main__':
+object_detection/dataset_tools/create_kitti_tf_record_test.py:130:  tf.test.main()
+object_detection/dataset_tools/create_pascal_tf_record.py:147:def main(_):
+object_detection/dataset_tools/create_pascal_tf_record.py:184:if __name__ == '__main__':
+object_detection/dataset_tools/oid_hierarchical_labels_expansion.py:148:def main(parsed_args):
+object_detection/dataset_tools/oid_hierarchical_labels_expansion.py:174:if __name__ == '__main__':
+object_detection/dataset_tools/oid_hierarchical_labels_expansion.py:199:  main(args)
+object_detection/dataset_tools/create_pet_tf_record.py:268:# TODO(derekjchow): Add test for pet/PASCAL main files.
+object_detection/dataset_tools/create_pet_tf_record.py:269:def main(_):
+object_detection/dataset_tools/create_pet_tf_record.py:317:if __name__ == '__main__':
+object_detection/dataset_tools/create_coco_tf_record_test.py:250:if __name__ == '__main__':
+object_detection/dataset_tools/create_coco_tf_record_test.py:251:  tf.test.main()
+object_detection/dataset_tools/oid_hierarchical_labels_expansion_test.py:87:if __name__ == '__main__':
+object_detection/dataset_tools/oid_hierarchical_labels_expansion_test.py:88:  tf.test.main()
+object_detection/dataset_tools/create_pascal_tf_record_test.py:117:if __name__ == '__main__':
+object_detection/dataset_tools/create_pascal_tf_record_test.py:118:  tf.test.main()
+object_detection/dataset_tools/create_kitti_tf_record.py:23:  Permission can be requested at the main website.
+object_detection/dataset_tools/create_kitti_tf_record.py:301:def main(_):
+object_detection/dataset_tools/create_kitti_tf_record.py:309:if __name__ == '__main__':
+object_detection/dataset_tools/create_coco_tf_record.py:247:def main(_):
+object_detection/dataset_tools/create_coco_tf_record.py:281:if __name__ == '__main__':
+object_detection/dataset_tools/create_oid_tf_record.py:66:def main(_):
+object_detection/dataset_tools/create_oid_tf_record.py:116:if __name__ == '__main__':
+object_detection/anchor_generators/multiscale_grid_anchor_generator_test.py:301:if __name__ == '__main__':
+object_detection/anchor_generators/multiscale_grid_anchor_generator_test.py:302:  tf.test.main()
+object_detection/anchor_generators/multiple_grid_anchor_generator_test.py:288:if __name__ == '__main__':
+object_detection/anchor_generators/multiple_grid_anchor_generator_test.py:289:  tf.test.main()
+object_detection/anchor_generators/grid_anchor_generator_test.py:103:if __name__ == '__main__':
+object_detection/anchor_generators/grid_anchor_generator_test.py:104:  tf.test.main()
+object_detection/builders/losses_builder_test.py:500:if __name__ == '__main__':
+object_detection/builders/losses_builder_test.py:501:  tf.test.main()
+object_detection/builders/optimizer_builder_test.py:207:if __name__ == '__main__':
+object_detection/builders/optimizer_builder_test.py:208:  tf.test.main()
+object_detection/builders/dataset_builder.py:148:          tf.contrib.data.batch_and_drop_remainder(batch_size))
+object_detection/builders/model_builder_test.py:1580:if __name__ == '__main__':
+object_detection/builders/model_builder_test.py:1581:  tf.test.main()
+object_detection/builders/post_processing_builder_test.py:106:if __name__ == '__main__':
+object_detection/builders/post_processing_builder_test.py:107:  tf.test.main()
+object_detection/builders/hyperparams_builder_test.py:864:if __name__ == '__main__':
+object_detection/builders/hyperparams_builder_test.py:865:  tf.test.main()
+object_detection/builders/box_predictor_builder_test.py:799:if __name__ == '__main__':
+object_detection/builders/box_predictor_builder_test.py:800:  tf.test.main()
+object_detection/builders/region_similarity_calculator_builder_test.py:66:if __name__ == '__main__':
+object_detection/builders/region_similarity_calculator_builder_test.py:67:  tf.test.main()
+object_detection/builders/dataset_builder_test.py:355:if __name__ == '__main__':
+object_detection/builders/dataset_builder_test.py:356:  tf.test.main()
+object_detection/builders/anchor_generator_builder_test.py:299:if __name__ == '__main__':
+object_detection/builders/anchor_generator_builder_test.py:300:  tf.test.main()
+object_detection/builders/preprocessor_builder_test.py:597:if __name__ == '__main__':
+object_detection/builders/preprocessor_builder_test.py:598:  tf.test.main()
+object_detection/builders/input_reader_builder_test.py:128:if __name__ == '__main__':
+object_detection/builders/input_reader_builder_test.py:129:  tf.test.main()
+object_detection/builders/graph_rewriter_builder_test.py:56:if __name__ == '__main__':
+object_detection/builders/graph_rewriter_builder_test.py:57:  tf.test.main()
+object_detection/builders/matcher_builder_test.py:98:if __name__ == '__main__':
+object_detection/builders/matcher_builder_test.py:99:  tf.test.main()
+object_detection/builders/image_resizer_builder_test.py:140:if __name__ == '__main__':
+object_detection/builders/image_resizer_builder_test.py:141:  tf.test.main()
+object_detection/builders/box_coder_builder_test.py:135:if __name__ == '__main__':
+object_detection/builders/box_coder_builder_test.py:136:  tf.test.main()
+object_detection/model_lib.py:731:  tf.estimator.train_and_evaluate. As an example, see model_main.py.
+object_detection/model_lib.py:758:                     'tf.estimator.train_and_evaluate(). See model_main.py for '
+object_detection/box_coders/square_box_coder_test.py:96:if __name__ == '__main__':
+object_detection/box_coders/square_box_coder_test.py:97:  tf.test.main()
+object_detection/box_coders/mean_stddev_box_coder_test.py:53:if __name__ == '__main__':
+object_detection/box_coders/mean_stddev_box_coder_test.py:54:  tf.test.main()
+object_detection/box_coders/faster_rcnn_box_coder_test.py:93:if __name__ == '__main__':
+object_detection/box_coders/faster_rcnn_box_coder_test.py:94:  tf.test.main()
+object_detection/box_coders/keypoint_box_coder_test.py:139:if __name__ == '__main__':
+object_detection/box_coders/keypoint_box_coder_test.py:140:  tf.test.main()
+object_detection/meta_architectures/ssd_meta_arch_test_lib.py:225:if __name__ == '__main__':
+object_detection/meta_architectures/ssd_meta_arch_test_lib.py:226:  tf.test.main()
+object_detection/meta_architectures/ssd_meta_arch_test.py:623:if __name__ == '__main__':
+object_detection/meta_architectures/ssd_meta_arch_test.py:624:  tf.test.main()
+object_detection/meta_architectures/rfcn_meta_arch_test.py:64:if __name__ == '__main__':
+object_detection/meta_architectures/rfcn_meta_arch_test.py:65:  tf.test.main()
+object_detection/meta_architectures/faster_rcnn_meta_arch_test_lib.py:1706:if __name__ == '__main__':
+object_detection/meta_architectures/faster_rcnn_meta_arch_test_lib.py:1707:  tf.test.main()
+object_detection/meta_architectures/faster_rcnn_meta_arch_test.py:377:if __name__ == '__main__':
+object_detection/meta_architectures/faster_rcnn_meta_arch_test.py:378:  tf.test.main()
+object_detection/dockerfiles/android/Dockerfile:27:    echo "deb http://packages.cloud.google.com/apt $CLOUD_SDK_REPO main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list && \
+object_detection/inference/detection_inference_test.py:175:if __name__ == '__main__':
+object_detection/inference/detection_inference_test.py:176:  tf.test.main()
+object_detection/inference/infer_detections.py:56:def main(_):
+object_detection/inference/infer_detections.py:95:if __name__ == '__main__':
+object_detection/predictors/rfcn_box_predictor_test.py:76:if __name__ == '__main__':
+object_detection/predictors/rfcn_box_predictor_test.py:77:  tf.test.main()
+object_detection/predictors/convolutional_keras_box_predictor_test.py:194:if __name__ == '__main__':
+object_detection/predictors/convolutional_keras_box_predictor_test.py:195:  tf.test.main()
+object_detection/predictors/mask_rcnn_box_predictor_test.py:150:if __name__ == '__main__':
+object_detection/predictors/mask_rcnn_box_predictor_test.py:151:  tf.test.main()
+object_detection/predictors/convolutional_box_predictor_test.py:855:if __name__ == '__main__':
+object_detection/predictors/convolutional_box_predictor_test.py:856:  tf.test.main()
+object_detection/predictors/heads/keras_class_head_test.py:64:if __name__ == '__main__':
+object_detection/predictors/heads/keras_class_head_test.py:65:  tf.test.main()
+object_detection/predictors/heads/class_head_test.py:127:if __name__ == '__main__':
+object_detection/predictors/heads/class_head_test.py:128:  tf.test.main()
+object_detection/predictors/heads/keras_mask_head_test.py:89:if __name__ == '__main__':
+object_detection/predictors/heads/keras_mask_head_test.py:90:  tf.test.main()
+object_detection/predictors/heads/keras_box_head_test.py:61:if __name__ == '__main__':
+object_detection/predictors/heads/keras_box_head_test.py:62:  tf.test.main()
+object_detection/predictors/heads/keypoint_head_test.py:56:if __name__ == '__main__':
+object_detection/predictors/heads/keypoint_head_test.py:57:  tf.test.main()
+object_detection/predictors/heads/mask_head_test.py:184:if __name__ == '__main__':
+object_detection/predictors/heads/mask_head_test.py:185:  tf.test.main()
+object_detection/predictors/heads/box_head_test.py:126:if __name__ == '__main__':
+object_detection/predictors/heads/box_head_test.py:127:  tf.test.main()
+object_detection/legacy/eval.py:83:@tf.contrib.framework.deprecated(None, 'Use object_detection/model_main.py.')
+object_detection/legacy/eval.py:84:def main(unused_argv):
+object_detection/legacy/eval.py:141:if __name__ == '__main__':
+object_detection/legacy/trainer_test.py:290:if __name__ == '__main__':
+object_detection/legacy/trainer_test.py:291:  tf.test.main()
+object_detection/legacy/train.py:87:@tf.contrib.framework.deprecated(None, 'Use object_detection/model_main.py.')
+object_detection/legacy/train.py:88:def main(_):
+object_detection/legacy/train.py:183:if __name__ == '__main__':
+object_detection/export_tflite_ssd_graph_lib_test.py:368:if __name__ == '__main__':
+object_detection/export_tflite_ssd_graph_lib_test.py:369:  tf.test.main()
+object_detection/export_tflite_ssd_graph.py:119:def main(argv):
+object_detection/export_tflite_ssd_graph.py:136:if __name__ == '__main__':
+object_detection/export_tflite_ssd_graph.py:137:  tf.app.run(main)
+object_detection/metrics/coco_tools_test.py:294:if __name__ == '__main__':
+object_detection/metrics/coco_tools_test.py:295:  tf.test.main()
+object_detection/metrics/oid_od_challenge_evaluation_utils_test.py:102:if __name__ == '__main__':
+object_detection/metrics/oid_od_challenge_evaluation_utils_test.py:103:  tf.test.main()
+object_detection/metrics/offline_eval_map_corloc_test.py:57:if __name__ == '__main__':
+object_detection/metrics/offline_eval_map_corloc_test.py:58:  tf.test.main()
+object_detection/metrics/oid_vrd_challenge_evaluation_utils_test.py:148:if __name__ == '__main__':
+object_detection/metrics/oid_vrd_challenge_evaluation_utils_test.py:149:  tf.test.main()
+object_detection/metrics/coco_evaluation_test.py:950:if __name__ == '__main__':
+object_detection/metrics/coco_evaluation_test.py:951:  tf.test.main()
+object_detection/metrics/oid_od_challenge_evaluation.py:69:def main(parsed_args):
+object_detection/metrics/oid_od_challenge_evaluation.py:102:if __name__ == '__main__':
+object_detection/metrics/oid_od_challenge_evaluation.py:128:  main(args)
+object_detection/metrics/tf_example_parser_test.py:196:if __name__ == '__main__':
+object_detection/metrics/tf_example_parser_test.py:197:  tf.test.main()
+object_detection/metrics/oid_vrd_challenge_evaluation.py:80:def main(parsed_args):
+object_detection/metrics/oid_vrd_challenge_evaluation.py:123:if __name__ == '__main__':
+object_detection/metrics/oid_vrd_challenge_evaluation.py:154:  main(args)
+object_detection/metrics/offline_eval_map_corloc.py:150:def main(argv):
+object_detection/metrics/offline_eval_map_corloc.py:170:if __name__ == '__main__':
+object_detection/metrics/offline_eval_map_corloc.py:171:  tf.app.run(main)
+object_detection/inputs_test.py:904:if __name__ == '__main__':
+object_detection/inputs_test.py:905:  tf.test.main()
+object_detection/eval_util_test.py:233:if __name__ == '__main__':
+object_detection/eval_util_test.py:234:  tf.test.main()
+object_detection/data_decoders/tf_example_decoder_test.py:838:if __name__ == '__main__':
+object_detection/data_decoders/tf_example_decoder_test.py:839:  tf.test.main()
+object_detection/matchers/bipartite_matcher_test.py:80:if __name__ == '__main__':
+object_detection/matchers/bipartite_matcher_test.py:81:  tf.test.main()
+object_detection/matchers/argmax_matcher_test.py:234:if __name__ == '__main__':
+object_detection/matchers/argmax_matcher_test.py:235:  tf.test.main()
+object_detection/core/balanced_positive_negative_sampler_test.py:203:if __name__ == '__main__':
+object_detection/core/balanced_positive_negative_sampler_test.py:204:  tf.test.main()
+object_detection/core/post_processing_test.py:1081:if __name__ == '__main__':
+object_detection/core/post_processing_test.py:1082:  tf.test.main()
+object_detection/core/balanced_positive_negative_sampler.py:24:The main function to call is Subsample(self, indicator, labels). For convenience
+object_detection/core/balanced_positive_negative_sampler.py:66:        atmost sample_size*positive_fraction positive examples and remaining
+object_detection/core/box_list_ops_test.py:1107:if __name__ == '__main__':
+object_detection/core/box_list_ops_test.py:1108:  tf.test.main()
+object_detection/core/box_list_test.py:133:if __name__ == '__main__':
+object_detection/core/box_list_test.py:134:  tf.test.main()
+object_detection/core/region_similarity_calculator_test.py:94:if __name__ == '__main__':
+object_detection/core/region_similarity_calculator_test.py:95:  tf.test.main()
+object_detection/core/prefetcher_test.py:100:if __name__ == '__main__':
+object_detection/core/prefetcher_test.py:101:  tf.test.main()
+object_detection/core/losses_test.py:1275:if __name__ == '__main__':
+object_detection/core/losses_test.py:1276:  tf.test.main()
+object_detection/core/minibatch_sampler.py:21:The main function call is:
+object_detection/core/batcher_test.py:157:if __name__ == '__main__':
+object_detection/core/batcher_test.py:158:  tf.test.main()
+object_detection/core/minibatch_sampler_test.py:81:if __name__ == '__main__':
+object_detection/core/minibatch_sampler_test.py:82:  tf.test.main()
+object_detection/core/preprocessor.py:1231:    # change the coordinate of the remaining boxes
+object_detection/core/preprocessor.py:1415:  The relative location of the boxes to the original image will remain the same.
+object_detection/core/preprocessor.py:1776:    # change the coordinate of the remaining boxes
+object_detection/core/preprocessor.py:1828:  is lower than what is possible to maintain the aspect ratio, then this method
+object_detection/core/preprocessor.py:2235:  """Resizes image and masks given the min size maintaining the aspect ratio.
+object_detection/core/box_predictor.py:26:These modules are separated from the main model since the same
+匹配到二进制文件 object_detection/core/freezable_batch_norm.pyc
+object_detection/core/freezable_batch_norm.py:35:  i.e. applies a transformation that maintains the mean activation
+object_detection/core/freezable_batch_norm_test.py:120:if __name__ == '__main__':
+object_detection/core/freezable_batch_norm_test.py:121:  tf.test.main()
+匹配到二进制文件 object_detection/core/balanced_positive_negative_sampler.pyc
+object_detection/core/matcher_test.py:191:if __name__ == '__main__':
+object_detection/core/matcher_test.py:192:  tf.test.main()
+object_detection/core/target_assigner_test.py:910:if __name__ == '__main__':
+object_detection/core/target_assigner_test.py:911:  tf.test.main()
+匹配到二进制文件 object_detection/core/preprocessor.pyc
+object_detection/core/preprocessor_test.py:2945:if __name__ == '__main__':
+object_detection/core/preprocessor_test.py:2946:  tf.test.main()
+object_detection/core/keypoint_ops_test.py:199:if __name__ == '__main__':
+object_detection/core/keypoint_ops_test.py:200:  tf.test.main()
+object_detection/core/box_coder_test.py:60:if __name__ == '__main__':
+object_detection/core/box_coder_test.py:61:  tf.test.main()
+匹配到二进制文件 object_detection/core/box_predictor.pyc
+匹配到二进制文件 object_detection/core/minibatch_sampler.pyc
+object_detection/exporter.py:89:  If the current checkpoint has shadow variables maintaining moving averages of
